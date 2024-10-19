@@ -1,1 +1,2 @@
- Data science projects with testing, training and predicting features of data  
+# Data_Science_Projects
+Projects with training, testing and predicting data features.
