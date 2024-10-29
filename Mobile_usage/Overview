@@ -1,0 +1,12 @@
+Two algorithms are used:
+1.KNN
+2.LogisticRegression
+
+Evaluation Metrics:
+1. Confusion matrix
+2. Recall
+3. Precision
+4. F1 score
+5. Accuracy
+
+using evaluation metrics on different alogrithm to check which is the best algorithm
