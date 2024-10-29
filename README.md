@@ -1,1 +1,1 @@
-LogisticRegression model is used to predict the data
+#Different Algorithm usage on CSV file
