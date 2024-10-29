@@ -1,1 +1,1 @@
-Here we will apply different algorithm on CSV files to predict the target outcome
+LogisticRegression model is used to predict the data
